@@ -94,6 +94,7 @@
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
             <connections>
                 <outlet property="captionLabel" destination="cA3-Cz-Dht" id="dvO-Hw-q7L"/>
+                <outlet property="commentButton" destination="OCo-yw-En2" id="V1D-3C-8oj"/>
                 <outlet property="dateLabel" destination="7xa-MA-T6I" id="CAF-T8-Iyn"/>
                 <outlet property="likeButton" destination="Fgj-BH-3Db" id="Ehl-Md-Tpw"/>
                 <outlet property="likeLabel" destination="NuM-EX-R7t" id="L0B-Ua-2my"/>
