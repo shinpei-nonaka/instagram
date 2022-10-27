@@ -25,6 +25,7 @@
 		B3E7068028FFC58A002B00BD /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E7067F28FFC58A002B00BD /* PostData.swift */; };
 		B3E7068328FFC602002B00BD /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E7068128FFC602002B00BD /* PostTableViewCell.swift */; };
 		B3E7068428FFC602002B00BD /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B3E7068228FFC602002B00BD /* PostTableViewCell.xib */; };
+		B3E706862907A346002B00BD /* CommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E706852907A346002B00BD /* CommentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		B3E7067F28FFC58A002B00BD /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		B3E7068128FFC602002B00BD /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		B3E7068228FFC602002B00BD /* PostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostTableViewCell.xib; sourceTree = "<group>"; };
+		B3E706852907A346002B00BD /* CommentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				B369810528EBEDA20063AAE6 /* PostViewController.swift */,
 				B369810728EBEDBB0063AAE6 /* SettingViewController.swift */,
 				B3E7067D28FFB815002B00BD /* Const.swift */,
+				B3E706852907A346002B00BD /* CommentViewController.swift */,
 				B3E7068128FFC602002B00BD /* PostTableViewCell.swift */,
 				B3E7068228FFC602002B00BD /* PostTableViewCell.xib */,
 				B3E7067F28FFC58A002B00BD /* PostData.swift */,
@@ -250,6 +253,7 @@
 				B369810828EBEDBB0063AAE6 /* SettingViewController.swift in Sources */,
 				B3E7068028FFC58A002B00BD /* PostData.swift in Sources */,
 				B369810028EBED2C0063AAE6 /* LoginViewController.swift in Sources */,
+				B3E706862907A346002B00BD /* CommentViewController.swift in Sources */,
 				B36980EA28EBEA1A0063AAE6 /* AppDelegate.swift in Sources */,
 				B36980EC28EBEA1A0063AAE6 /* SceneDelegate.swift in Sources */,
 				B3E7067E28FFB815002B00BD /* Const.swift in Sources */,
